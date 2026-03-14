@@ -7,16 +7,17 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is my feature branch code change.I am learning how to use git and github with react.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Subhamoy-Saha-100"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React With Subhamoy
         </a>
+        <p>game over!</p>
       </header>
     </div>
   );
